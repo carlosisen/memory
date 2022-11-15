@@ -1,3 +1,4 @@
+
 let cards = []
 let valores = []
 let cartasLevantadas = [];
@@ -88,8 +89,7 @@ function clicking(a, b) {
 
                 }
 
-        }
-}
+        }}
 function changeTurn() {
         try1 = [];
         try2 = null;
